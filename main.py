@@ -1,5 +1,5 @@
-#remake boleh tapi izin dulu!! 
-#t.me/mrd4nd
+#Pwnd By ʀɛʏʏӼքʟօɨȶ!! 
+#t.me/SickFaceCyberMY
 
 import subprocess
 import os
@@ -14,11 +14,11 @@ import platform
 import colorama
 from node_modules.colors.themes import string
 
-#JANGAN DI UBAH DEK! #
-#JANGAN DI UBAH DEK! #
-author = "dandier"
-#JANGAN DI UBAH EEK! #
-#JANGAN DI UBAH DEK! #
+#JANGAN DI UBAH! #
+#JANGAN DI UBAH! #
+author = "ReyyXploit7MY"
+#JANGAN DI UBAH! #
+#JANGAN DI UBAH! #
 
 def prints(start_color, end_color, text):
     start_r, start_g, start_b = start_color
@@ -59,12 +59,12 @@ def main():
 	░       ░                       
 """
     author = r"""
-		Ddos Panel By Dandier
+		DOS TOOLS PRIVATE REYYXPLOIT 
     """
     prints(start_color, end_color, banner)
     prints(end_color, start_color, author)
     print("\n") 
-    print(Color.LB+"           ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" dandier"+Color.LR+"       ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" flood")
+    print(Color.LB+"           ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" ReyyXploit7MY"+Color.LR+"       ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" flood")
     print("\n") 
     print(Color.LR+"           ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" gangbang"+Color.LB+"       ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" socket")
     print("\n")
@@ -85,7 +85,7 @@ def main():
                 subprocess.run(['python3', dandier])
                 sys.exit(0)
             except IndexError:
-                print('just input dandier')
+                print('just input reyyX')
                 
         elif "flood" in cnc:
             try:
@@ -118,7 +118,7 @@ def main():
             except IndexError:
                 pass
                 
-if author == "dandier":
+if author == "ReyyXploit7MY":
     main()
 else:
     string.authorsalah()
