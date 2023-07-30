@@ -54,7 +54,7 @@ npm i https-proxy-agent
 npm i cloudflare-bypasser
 npm i http http2 crypto tls
 npm i net
-git clone https://github.com/dandiers/DdosPanel.git
+git clone https://github.com/ReyyXploit/DdosReyy/
 cd DdosPanel
 pip install -r requirements.txt
 python3 main.py
@@ -62,7 +62,7 @@ python3 main.py
 
 # Credits
 ```sh
-dandier (Owner Of This Tools.-.)
+  ReyyXploit7MY (Owner Of This Tools.-.)
 ```
 
 # Appearance
@@ -76,13 +76,13 @@ dandier (Owner Of This Tools.-.)
 <img src="https://github.com/dandiers/ddospanel/assets/61583533/591a8254-e881-4c29-8b12-021df28dd2f2"></img>
 # Rules:
 ```sh
-Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
+Do not attack government pages (.gov/.gob), educational pages (.edu) or the Malaysian Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
 ```
 
 # CONTACT:
 ```sh
-Telegram: @mrd4nd
-Discord: dandier#1121
+Telegram: @SickFaceCyberMY
+Discord: ReyyXploit7MY 
 ```
