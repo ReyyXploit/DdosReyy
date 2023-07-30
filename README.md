@@ -17,9 +17,9 @@
  </div>
  
  ## Logs</br>
- - POWERFUL L7!
- - DONT RESELL THIS TOOLS!
- - OPEN SOURCE!!
+ - PRIVATE L7!
+ - ONLY FOR 7XPLOITERMEMBERS!
+ - PRIVATE SOURCE!!
    
 # Tree
 * [𝕀𝕟𝕗𝕠](#Info)
